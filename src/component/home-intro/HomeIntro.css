@@ -1,0 +1,11 @@
+.image{
+    border-radius: 50%;
+   align-items: center;
+   width: 550px;
+   height: 550px;
+
+
+}
+.container-fluid{
+    display: inline-flex;
+}

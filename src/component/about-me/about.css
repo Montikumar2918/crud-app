@@ -1,0 +1,13 @@
+.profile {
+    
+    border-radius: 50%;
+  }
+  .first {
+    display: inline-table;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: normal;
+    height: 100vh;
+  }
+  
